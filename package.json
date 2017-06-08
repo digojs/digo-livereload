@@ -1,0 +1,18 @@
+{
+    "name": "digo-livereload",
+    "version": "0.0.1",
+    "repository": "http://github.com/digojs/digo-livereload",
+    "description": "digo 插件：使用 LiveReload 实现浏览器自动刷新",
+    "keywords": [
+        "digo plugin",
+        "livereload"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "livereload": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
